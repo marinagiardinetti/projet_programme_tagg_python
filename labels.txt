@@ -1,0 +1,9 @@
+face
+hand
+nose
+cheek
+blues
+nose
+foot
+ear
+eye
